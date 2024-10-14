@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, coding, and exploring the world of AI and ML.
 - 🌱 I’m currently learning C and working on fun projects
 - 💞️ I’m looking to collaborate on innovative projects and coding challenges.
-- 📫 How to reach me vatsaljaiswal17@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/vatsalj17
+- 📫 Reach me at vatsaljaiswal17@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/vatsalj17
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving logic puzzles, Sudoku, and playing chess!
 
