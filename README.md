@@ -10,3 +10,15 @@
 Vatsalj17/Vatsalj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsalj17&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vatsalj17&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vatsalj17&label=Profile+Views&style=for-the-badge&color=grey" />
+</div>
