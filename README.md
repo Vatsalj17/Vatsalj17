@@ -19,8 +19,17 @@
 </div>
 
 ## 👨‍💻 Languages and Tools:
+
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=ffffff&labelColor=2C2D72)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=ffffff&labelColor=4EAA25)
+
+![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=neovim&logoColor=57A143&labelColor=ffffff)
+![Tmux](https://img.shields.io/badge/-Tmux-000000?style=flat&logo=tmux&logoColor=1BB91F&labelColor=ffffff)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=1793D1&labelColor=ffffff)
+![Hyprland](https://img.shields.io/badge/-Hyprland-000000?style=flat&logoColor=ffffff&labelColor=1793D1) 
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 
