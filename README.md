@@ -49,6 +49,3 @@ Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=19
     alt="emailAddress"
   />
 </a>
-
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vatsalj17&theme=tokyonight)
