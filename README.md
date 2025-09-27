@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact&exclude_repo=riceverse,My-Portfolio&theme=github_dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact&exclude_repo=riceverse,My-Portfolio,strawhats&theme=github_dark) 
 
 
 ## ☕ Connect with me! 
