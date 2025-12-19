@@ -50,7 +50,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact&exclude_repo=My-Portfolio,strawhats&theme=github_dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact&exclude_repo=riceverse,My-Portfolio,strawhats&theme=github_dark&langs_count=10) 
 
 
 ## ☕ Connect with me! 
