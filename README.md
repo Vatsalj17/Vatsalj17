@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50">
-  Hi, I’m Vatsal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi"></h1>
+  <h1><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30" height="30" alt="hi">
+  Hi, I’m Vatsal <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="30" height="30"></h1>
   
   <h3 align="center">Student from India specializing in systems programming and low-level development.</h3>
   <p align="center">I have a deep-rooted obsession with understanding what happens "under the hood," focusing my energy on kernels, device drivers, networking, and computer architecture. I love understanding the logic and complexity of system-level engineering. 🛠️</p>
@@ -8,16 +8,15 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> About Me
   
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🐧 **Interests:** Low-level systems, specifically **Kernels, OS Development, and Network Protocols.**
-- 🦀 **Currently Learning:** **Rust, Linux Kernel internals, and Embedded Systems architecture.**
-- 🛠️ **Projects:** Developed **custom Unix shells, real-time memory tracers, and Mark-and-Sweep Garbage Collectors.**
-- 🛰️ **Collaboration:** Open to **Systems Programming, high-performance Networking tools, or Embedded projects.**
-- 🏎️ **Workflow:** Automated, keyboard-centric orchestration on **Arch/Hyprland** using **Tmux** and **Neovim** for high-velocity systems development.
-- 🧠 **Fun Fact:** I’m a logic enthusiast who loves solving **Sudoku and Chess** puzzles.
+- **Interests:** Low-level systems, specifically **Kernels, OS Development, and Network Protocols.**
+- **Currently Learning:** **Linux Kernel & Network Stack internals, Embedded Systems architecture.**
+- **Collaboration:** Open to **Systems Programming, high-performance Networking tools, or Embedded projects.**
+- **Workflow:** Automated, keyboard-centric orchestration on **Arch/Hyprland** using **Tmux** and **Neovim** for high-velocity systems development.
+- **Fun Fact:** I’m a logic enthusiast who loves solving **Sudoku and Chess** puzzles.
 
 <br clear="right">
 
@@ -56,8 +55,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=ffffff&labelColor=FF6C37)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalj17&layout=compact&exclude_repo=My-Portfolio,strawhats&theme=github_dark&langs_count=10) 
 
 ## <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
