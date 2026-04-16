@@ -54,14 +54,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=ffffff&labelColor=FF6C37)
-
-
-## <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vatsalj17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="astrohere" height="40" width="40" /></a>
-<a href="https://twitter.com/vatsalj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" alt="Divyansh ojha" height="40" width="40" /></a>
-<a href="https://discord.com/channels/@vatsal#3787" target="blank"><img align="center" src="https://img.icons8.com/color/2x/discord--v2.png" alt="Divyansh ojha" height="43" width="42" /></a>  
-<a href="https://www.instagram.com/vatsal1708/" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/instagram-new.png" alt="Divyansh ojha" height="40" width="40" /></a>
-<a href = "mailto: vatsaljaiswal17@gmail.com"><img align="center" src="https://img.icons8.com/doodle/2x/gmail-new.png" height="40" width="40" /></a>
-</p>
